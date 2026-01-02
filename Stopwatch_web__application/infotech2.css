@@ -1,0 +1,30 @@
+body{
+  background: #1e1e2f;
+  color: white;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  background: #2c2c54;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#time {
+  font-size: 40px;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
